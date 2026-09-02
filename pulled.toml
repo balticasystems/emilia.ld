@@ -1,0 +1,4 @@
+[setup]
+files = [
+    ["./emilia.ld", "./"],
+]

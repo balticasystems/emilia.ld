@@ -1,0 +1,4 @@
+[dependencies]
+repos = [
+    ["scala-systems", "memmap.ld"],
+]
