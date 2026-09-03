@@ -1,4 +1,4 @@
 [dependencies]
 repos = [
-    ["scala-systems", "memmap.ld"],
+    ["balticasystems", "memmap.ld"],
 ]
